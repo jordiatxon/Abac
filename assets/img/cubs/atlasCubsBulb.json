@@ -1,0 +1,102 @@
+{"frames": {
+
+"D1":
+{
+	"frame": {"x":2,"y":2,"w":1201,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1201,"h":188},
+	"sourceSize": {"w":1201,"h":188},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U1":
+{
+	"frame": {"x":1205,"y":2,"w":165,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":156},
+	"sourceSize": {"w":165,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U2":
+{
+	"frame": {"x":1372,"y":2,"w":272,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":156},
+	"sourceSize": {"w":272,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U3":
+{
+	"frame": {"x":1646,"y":2,"w":388,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":156},
+	"sourceSize": {"w":388,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U4":
+{
+	"frame": {"x":2,"y":192,"w":504,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":156},
+	"sourceSize": {"w":504,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U5":
+{
+	"frame": {"x":508,"y":192,"w":619,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":619,"h":156},
+	"sourceSize": {"w":619,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U6":
+{
+	"frame": {"x":1129,"y":192,"w":735,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":735,"h":156},
+	"sourceSize": {"w":735,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U7":
+{
+	"frame": {"x":2,"y":350,"w":851,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":851,"h":156},
+	"sourceSize": {"w":851,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U8":
+{
+	"frame": {"x":855,"y":350,"w":967,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":967,"h":156},
+	"sourceSize": {"w":967,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U9":
+{
+	"frame": {"x":2,"y":508,"w":1083,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1083,"h":156},
+	"sourceSize": {"w":1083,"h":156},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlasCubsBulb.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0a79d7066844339d5923ce4eb91df38f:0a9d25f0dfb81aed7ed96f42b7f9e347:2fb9fd4b29037a539beea4b054b63950$"
+}
+}

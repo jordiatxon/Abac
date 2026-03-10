@@ -1,0 +1,57 @@
+{"frames": {
+
+"C1menu":
+{
+	"frame": {"x":2,"y":2,"w":145,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":141},
+	"sourceSize": {"w":145,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"D1menu":
+{
+	"frame": {"x":149,"y":2,"w":145,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":141},
+	"sourceSize": {"w":145,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"M1menu":
+{
+	"frame": {"x":296,"y":2,"w":145,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":141},
+	"sourceSize": {"w":145,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U1menu":
+{
+	"frame": {"x":443,"y":2,"w":145,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":141},
+	"sourceSize": {"w":145,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"count":
+{
+	"frame": {"x":2,"y":145,"w":729,"h":291},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":729,"h":291},
+	"sourceSize": {"w":729,"h":291},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlasContJunior.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ee66f6e3967bf43ee573f1bfc907d67:3eb6249961170c35f5912309d718c0d9:f5bba8cd6efa2024e40cb96740f66811$"
+}
+}

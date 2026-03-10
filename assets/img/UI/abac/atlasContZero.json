@@ -1,0 +1,48 @@
+{"frames": {
+
+"D1menuDU":
+{
+	"frame": {"x":2,"y":2,"w":231,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":141},
+	"sourceSize": {"w":231,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"U1menuDU":
+{
+	"frame": {"x":235,"y":2,"w":231,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":141},
+	"sourceSize": {"w":231,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"countD":
+{
+	"frame": {"x":2,"y":145,"w":270,"h":291},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":291},
+	"sourceSize": {"w":270,"h":291},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"countU":
+{
+	"frame": {"x":2,"y":438,"w":294,"h":291},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":291},
+	"sourceSize": {"w":294,"h":291},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlasContZero.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:75faf858aa3f2e3193cbb5bd50075386:733078e8d2e8f2d16a77f486353c30a5:a7793f24e168106f5399eca793d2cae3$"
+}
+}

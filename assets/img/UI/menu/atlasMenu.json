@@ -1,0 +1,66 @@
+{"frames": {
+
+"btnAbacDown":
+{
+	"frame": {"x":2,"y":2,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacUp":
+{
+	"frame": {"x":2,"y":154,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacZeroDown":
+{
+	"frame": {"x":2,"y":306,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacZeroUp":
+{
+	"frame": {"x":2,"y":458,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnCalculadoraDown":
+{
+	"frame": {"x":2,"y":610,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnCalculadoraUp":
+{
+	"frame": {"x":2,"y":762,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlasMenu.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f371bab282a395743f4058f56bac8e5:47560fc34b456f17c06c5bf336b43ac0:e8b8b27718caeb375750d0c9c152b7ce$"
+}
+}

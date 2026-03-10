@@ -1,0 +1,66 @@
+{"frames": {
+
+"btnAbacDown":
+{
+	"frame": {"x":2,"y":2,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacUp":
+{
+	"frame": {"x":2,"y":154,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacZeroDown":
+{
+	"frame": {"x":2,"y":306,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnAbacZeroUp":
+{
+	"frame": {"x":2,"y":458,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnCalculadoraDown":
+{
+	"frame": {"x":2,"y":610,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnCalculadoraUp":
+{
+	"frame": {"x":2,"y":762,"w":605,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":605,"h":150},
+	"sourceSize": {"w":605,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlasMenuES.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:80e03c15c6d71f995f76b00c61626fcb:34777bc6ef80b434f0212c20b16683b3:6fcb0b78bcbd26a37964e0ca07df6895$"
+}
+}
