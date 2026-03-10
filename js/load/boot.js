@@ -1,6 +1,7 @@
 
 // -------------------------------------------- //
-// -- Projecte:    Aleph                     -- //
+// -- Projecte:    Cubicubs                  -- //
+// -- Disseny didàctic: Jordi Achon          -- //
 // -- Empresa:     Els Altres Tres           -- //
 // -- Programador: Jordi Castellví Bosch     -- //
 // --                                        -- //
